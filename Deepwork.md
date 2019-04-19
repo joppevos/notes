@@ -23,7 +23,7 @@ work through out the whole day.
     Set a time limit and commit to it. Around 1 hour without any distraction is a good start. Your brain will resist sometimes but keep pushing and find the feeling of pain and discomfort in your brain rewarding
     This means you are stretching up your boundries and increase your skill.
  
- - #### Embrace boredom
+ - ##### Embrace boredom
     Nowadays people feel the urge to grab there phone when going to the toilet, to not be bored for those 5 minutes. Or when waiting in que, or waiting at the traffic light.
     You train your brain this way to react to boredom by grabbing your phone and giving it some dopamine.
     When you can resist this simple que's through out the day, you will become much better in overall focus.  
