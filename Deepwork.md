@@ -16,7 +16,7 @@ If you check your email or phone when working because your stuck or out of bored
 It takes around 20 minutes to performing again at the same level. So if you participate in shallow work every 20 minutes. You will not have any deep
 work through out the whole day.
 
-### Tips
+### Steps
  - #### Work deeply
     Find a place and time where you will not be interrupted. This does not have to be in the middle of the forest.
     Have some water, maybe some food at reach so you don't get distracted by basic needs.
@@ -28,15 +28,21 @@ work through out the whole day.
     You train your brain this way to react to boredom by grabbing your phone and giving it some dopamine.
     When you can resist this simple que's through out the day, you will become much better in overall focus.  
 
- - ##### Shutdown
+ - #### Shutdown
     Incomplete task dominate our attention. This will likely keep your mind not clear and keeps you battling thought the evening.
     When you are done with the work for today it is import to shutdown your mind on it. Research shows that having your mind bored helps giving new insights from our unconsciousness.
     To be able to call it a day and not think about your task again your need to setup a ritual. The most simple one is setting 10 minutes aside at the end of day to note down where you are at the moment.
     This ensures that no task will be forgotten and your mind is released from its duty to keep track of these obligations. When you don't, your mind will try to remember what your last status was on that thoughts and keep looping through it.
     This does not give interesting insight, it only makes noise that keeps you from getting new interesting insights.
     "When you work, work hard. When you're done, be done"
+     
+ - #### Measure
+    Make sure that you review your progress regularly. once a week a few minutes too see what you have accomplished.
+    this way you make sure you are on the right track and not fall in the trap of thinking you are. Make sure you really do what you want
+    and not just read about what you want to do. If you want to become a better programmer don't forget to just program. Don't just keep reading 
+    about how other people program and feel accomplished from those post.
     
- Do not flee to the slightest hint of boredom outside of work. rewire your brian. commit to a ritual and and train your mental muscle. This will deepen your focus and lead to a more full filling lif e. 
+ Do not flee to the slightest hint of boredom outside of work. rewire your brian. commit to a ritual and and train your mental muscle. This will deepen your focus and lead to a more full filling life. 
  
     
 
