@@ -10,7 +10,7 @@ He interviews around 20 different people and makes observations about the patter
 There is no evidence at all. that people who are happy at there job, had an pre-existing interest for it.
 the three things that DID matter a lot at and where seen at all happy people where mastery, autonomy and relationships
 
-####Most people dont have a clear passion
+#### Most people dont have a clear passion
 The problem with passion, it that it is for a lot of people not clear what is it. Maybe you liked to paint when you where younger
 or like to to yoga in your free time. But does that enjoyment mean it is your 'passion'?
 The feeling that your not at the right place at the moment and that your passion is the way is very frustrating.
