@@ -10,8 +10,8 @@ There is a lot of overlap and connections to his other book "deepwork" that valu
 Text messaging is not sufficiently rich to fulfill the brains cravings for real conversations. A day of small talk over a chat service can 
 leave you quite empty compared to a short good talk with a friend face-to-face or even over the phone.
 
-"Digital minimalism is a philosophy of technology use in which you focus your online time on a small number of carefully selected
-and optimized activities that strongly support the things you value, and then happily miss out on everything else."
+_"Digital minimalism is a philosophy of technology use in which you focus your online time on a small number of carefully selected
+and optimized activities that strongly support the things you value, and then happily miss out on everything else."_
 
 #### Ask the  following question
 Is it the best way to use this technology to support my values? whenever it is browsing reddit, watching the news showing terrorism in Ghana etc.
@@ -30,12 +30,12 @@ constant being wired.
     You can learn to enjoy being bored
 
 
-"I think i cannot preserve my health and spirit, unless a spend four hours a day at least, sauntering
-through the woods and over the hills and fields, absolutely free from all the wordly engagements" - Thoreau
+_"I think i cannot preserve my health and spirit, unless a spend four hours a day at least, sauntering
+through the woods and over the hills and fields, absolutely free from all the wordly engagements" - Thoreau_
 
-#### notes to self
-Minimize spotify use. No need to not leave the house without headphones and fire up a list skipping trough for the perfect track
-Wear a watch, dont watch your phone for the time.
+#### Notes to self
+Minimize mindless spotify use. No need to not leave the house without headphones and fire up a list skipping trough for the perfect track
+Wear a watch, do not watch  phone for the time.
 Block specific websites and set time limits.
 
 
