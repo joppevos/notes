@@ -1,4 +1,4 @@
-"Why not to follow your passion"
+"Why not to follow your passion" from the book "So good they cant ignore you."
 
 Popular Mantras like ‘find your passion’ carry hidden implications…they imply that once an interest resonates,
 pursuing it will be easy and everything will come by itself.
@@ -10,7 +10,7 @@ He interviews around 20 different people and makes observations about the patter
 There is no evidence at all. that people who are happy at there job, had an pre-existing interest for it.
 the three things that DID matter a lot at and where seen at all happy people where mastery, autonomy and relationships
 
-**Most people dont have a clear passion**
+####Most people dont have a clear passion
 The problem with passion, it that it is for a lot of people not clear what is it. Maybe you liked to paint when you where younger
 or like to to yoga in your free time. But does that enjoyment mean it is your 'passion'?
 The feeling that your not at the right place at the moment and that your passion is the way is very frustrating.
@@ -30,11 +30,12 @@ This way you can build up "Career capital" and that will be easy to leverage in 
 (interesting example from girl that builds databases and have become quite good at it. Since she is good at it she
 leverages this in more autonomy in work. at the moment she only works half a year, the other half she go's Diving and do whatever)
 
+#### Career leverage
 You need to get good in order to get good things in your working life, and the craftsman mindset is focused 
 on achieving exactly this goal.
 master rare and valuable skills. Once you build up the career capital that these skills generate, invest it wisely. 
 Use it to acquire control over what you do and how you do it, and to identify and act on a life-changing mission.
 
-"the deep questions driving the passion mindset—“Who am I?” and “What do I truly love?
+"The deep questions driving the passion mindset—“Who am I?” and “What do I truly love?
 ”—are essentially impossible to confirm. “Is this who I really am?” and “Do I love this?” rarely reduce to clear yes-or-no responses. 
 In other words, the passion mindset is almost guaranteed to keep you perpetually unhappy and confused"
