@@ -18,6 +18,13 @@ Is it the best way to use this technology to support my values? whenever it is b
 Try to see how much time must be sacrificed to earn the rather small return. Is it once a week that you find a good article on Medium, 
 but spend every morning browsing, reading, searching for it? Than maybe you should consider changing the habit to get the same return
 
+#### Succesful social leisure
+- Spend time with people in person. There is a richness in realworld encounters that is largely lost in virtual connections.
+Slaying dragons with your internet buddy you have never met doesn't qualify.
+
+- structure in the social interaction. Often a common shared goal/interest. ie Making a tree house when you where younger, fixing motorcycles when your older. 
+
+
 #### Spend time alone
 We need solitude to thrive as human beings. A number of import people in history have noted this.
 In recent years without realizing we have been reducing this crucial ingredient from our lives.
